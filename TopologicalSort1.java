@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.*;
 
-public class lc207 {
+public class TopologicalSort1{
 	
 	public boolean canFinish(int numCourses, int[][] prerequisites) {
         Map<Integer,Integer> map = new HashMap<Integer,Integer>();
