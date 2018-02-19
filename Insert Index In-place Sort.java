@@ -1,4 +1,3 @@
-package leetcode;
 
 public class Insert Index In-place Sort {
 	
